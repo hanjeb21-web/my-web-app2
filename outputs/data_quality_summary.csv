@@ -1,0 +1,4 @@
+﻿dataset,rows,columns,date_min,date_max,duplicate_equipment_date_rows,missing_cells,columns_with_missing,target_positive_rate
+train,2346,18,2023-01-01,2024-12-31,0,3564,3,0.2237851662404092
+test,1241,17,2025-01-01,2025-12-31,0,1752,2,
+this_month,106,16,2026-01-01,2026-01-31,0,124,2,

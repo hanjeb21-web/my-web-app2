@@ -1,0 +1,39 @@
+﻿dimension,value,rows,failures,failure_rate
+equipment_type,감시드론,581,118,0.20309810671256454
+equipment_type,교육용드론,381,52,0.13648293963254593
+equipment_type,수송드론,601,191,0.3178036605657238
+equipment_type,정찰드론,783,164,0.20945083014048532
+season,가을,596,141,0.23657718120805368
+season,겨울,593,153,0.2580101180438449
+season,봄,557,87,0.1561938958707361
+season,여름,600,144,0.24
+fault_category,기체,79,42,0.5316455696202531
+fault_category,모터,147,89,0.6054421768707483
+fault_category,배터리,180,97,0.5388888888888889
+fault_category,센서,107,45,0.4205607476635514
+fault_category,통신,126,58,0.4603174603174603
+fault_category,(결측),1707,194,0.11364967779730521
+equipment_type × fault_category,감시드론 × 기체,18,8,0.4444444444444444
+equipment_type × fault_category,감시드론 × 모터,19,11,0.5789473684210527
+equipment_type × fault_category,감시드론 × 배터리,44,19,0.4318181818181818
+equipment_type × fault_category,감시드론 × 센서,31,11,0.3548387096774194
+equipment_type × fault_category,감시드론 × 통신,32,12,0.375
+equipment_type × fault_category,감시드론 × nan,437,57,0.13043478260869565
+equipment_type × fault_category,교육용드론 × 기체,18,7,0.3888888888888889
+equipment_type × fault_category,교육용드론 × 모터,12,3,0.25
+equipment_type × fault_category,교육용드론 × 배터리,27,8,0.2962962962962963
+equipment_type × fault_category,교육용드론 × 센서,16,5,0.3125
+equipment_type × fault_category,교육용드론 × 통신,16,8,0.5
+equipment_type × fault_category,교육용드론 × nan,292,21,0.07191780821917808
+equipment_type × fault_category,수송드론 × 기체,23,16,0.6956521739130435
+equipment_type × fault_category,수송드론 × 모터,74,53,0.7162162162162162
+equipment_type × fault_category,수송드론 × 배터리,50,33,0.66
+equipment_type × fault_category,수송드론 × 센서,22,12,0.5454545454545454
+equipment_type × fault_category,수송드론 × 통신,35,18,0.5142857142857142
+equipment_type × fault_category,수송드론 × nan,397,59,0.1486146095717884
+equipment_type × fault_category,정찰드론 × 기체,20,11,0.55
+equipment_type × fault_category,정찰드론 × 모터,42,22,0.5238095238095238
+equipment_type × fault_category,정찰드론 × 배터리,59,37,0.6271186440677966
+equipment_type × fault_category,정찰드론 × 센서,38,17,0.4473684210526316
+equipment_type × fault_category,정찰드론 × 통신,43,20,0.46511627906976744
+equipment_type × fault_category,정찰드론 × nan,581,57,0.0981067125645439

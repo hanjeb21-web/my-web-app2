@@ -1,0 +1,10 @@
+﻿column,maintenance_type,rows,missing_count,missing_pct
+fault_code,긴급정비,171,0,0.0
+fault_code,사후정비,468,0,0.0
+fault_code,예방정비,1707,1707,100.0
+fault_category,긴급정비,171,0,0.0
+fault_category,사후정비,468,0,0.0
+fault_category,예방정비,1707,1707,100.0
+days_since_last_maintenance,긴급정비,171,0,0.0
+days_since_last_maintenance,사후정비,468,1,0.2136752136752137
+days_since_last_maintenance,예방정비,1707,149,8.728763913298183

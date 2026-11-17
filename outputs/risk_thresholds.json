@@ -1,0 +1,14 @@
+{
+  "miss_cost_300_won_10k": {
+    "threshold": 0.484502717604839,
+    "missed_failures": 30,
+    "flagged_for_inspection": 237,
+    "estimated_cost_won_10k": 23220.0
+  },
+  "miss_cost_600_won_10k": {
+    "threshold": 0.2299049351696184,
+    "missed_failures": 13,
+    "flagged_for_inspection": 365,
+    "estimated_cost_won_10k": 29700.0
+  }
+}
